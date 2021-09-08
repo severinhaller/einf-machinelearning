@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../einf/.idea/einf.iml" filepath="$PROJECT_DIR$/../einf/.idea/einf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/einf-machinelearning.iml" filepath="$PROJECT_DIR$/.idea/einf-machinelearning.iml" />
+    </modules>
+  </component>
+</project>
